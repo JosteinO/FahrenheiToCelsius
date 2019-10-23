@@ -9,6 +9,9 @@
           ],
           "js": ["content.js"]
         }
-      ]
+      ],
+      "browser_action": {
+        "default_icon": "fahrenheit-icon.jpg"
+      }
 
 }
